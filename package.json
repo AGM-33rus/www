@@ -1,7 +1,6 @@
 {
   "name": "www",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,5 +19,14 @@
     "stylelint-config-prettier-scss": "^0.0.1",
     "stylelint-config-standard": "^24.0.0",
     "stylelint-config-standard-scss": "^3.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AGM-33rus/www.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AGM-33rus/www/issues"
+  },
+  "homepage": "https://github.com/AGM-33rus/www#readme",
+  "description": ""
 }
